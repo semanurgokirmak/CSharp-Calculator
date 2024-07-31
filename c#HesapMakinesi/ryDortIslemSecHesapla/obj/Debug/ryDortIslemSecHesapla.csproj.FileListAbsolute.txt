@@ -1,0 +1,20 @@
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\bin\Debug\ryDortIslemSecHesapla.exe.config
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\bin\Debug\ryDortIslemSecHesapla.exe
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\bin\Debug\ryDortIslemSecHesapla.pdb
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.csprojAssemblyReference.cache
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.dortIslemSecHesaplaForm.resources
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.Properties.Resources.resources
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.csproj.GenerateResource.cache
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.csproj.CoreCompileInputs.cache
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.exe
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.pdb
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\bin\Debug\ryDortIslemSecHesapla.exe.config
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\bin\Debug\ryDortIslemSecHesapla.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\bin\Debug\ryDortIslemSecHesapla.pdb
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.csproj.AssemblyReference.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.dortIslemSecHesaplaForm.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.Properties.Resources.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.csproj.GenerateResource.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.csproj.CoreCompileInputs.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta3\BIP2503 - 03.HAFTA\FINISHED\31_ryDortIslemSecHesapla\ryDortIslemSecHesapla\obj\Debug\ryDortIslemSecHesapla.pdb
